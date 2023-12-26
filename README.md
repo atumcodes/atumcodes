@@ -1,6 +1,6 @@
 # AtumCodes
 
-![AtumCodes Logo](link/to/logo.png)
+![AtumCodes Logo](https://drive.google.com/uc?export=download&id=1ETQYa4DTszv06XF_XyG5ywhfvlIuVPPC)
 
 AtumCodes is a versatile development studio committed to delivering high-quality solutions in UI/UX design, logo creation, SEO optimization, web development, mobile app development, and desktop development. Our team of skilled professionals is dedicated to turning your ideas into stunning and functional digital experiences.
 
